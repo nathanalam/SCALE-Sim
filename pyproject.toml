@@ -1,0 +1,17 @@
+[project]
+name = "scale-sim"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "absl-py>=2.5.1",
+    "configparser>=7.3.0",
+    "cython>=3.3.0",
+    "matplotlib>=3.11.2",
+    "numba>=0.68.0",
+    "numpy>=2.5.4",
+    "pandas>=3.1.0",
+    "setuptools>=84.2.1",
+    "tqdm>=4.70.1",
+]
